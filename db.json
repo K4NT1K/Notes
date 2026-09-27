@@ -1,0 +1,61 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "Note 1",
+      "content": "Content 1",
+      "createdAt": "2026-09-11T12:33:47.267Z",
+      "hidden": false,
+      "tags": [
+        "tag1",
+        "tag2"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Note 2",
+      "content": "Content 2",
+      "createdAt": "2026-09-12T12:33:47.267Z",
+      "hidden": false,
+      "tags": [
+        "tag2",
+        "tag3"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Note 3",
+      "content": "Content 3",
+      "createdAt": "2026-09-13T12:33:47.267Z",
+      "hidden": true,
+      "tags": [
+        "tag3",
+        "tag4"
+      ]
+    },
+    {
+      "id": "dA0ytT_dx-E",
+      "title": "Выучить TS",
+      "content": "Изучить типизацию, кортежи, замыкание",
+      "createdAt": "2026-09-14T11:15:37.037Z",
+      "hidden": false,
+      "tags": [
+        "Программирование",
+        "Учёба"
+      ]
+    },
+    {
+      "id": "ydyHflXVfSE",
+      "title": "Do homework 2",
+      "content": "video 3,4",
+      "createdAt": "2026-09-27T09:45:42.569Z",
+      "hidden": false,
+      "tags": [
+        "homework",
+        "school",
+        "web-prog"
+      ]
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

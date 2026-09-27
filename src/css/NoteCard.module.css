@@ -1,0 +1,66 @@
+.container {
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.noteTitle {
+    margin: 0 0 10px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.date {
+    margin: 0;
+    color: #6b7280;
+}
+
+.badge {
+    margin: 0;
+    padding: 2px 8px;
+    background-color: #2563eb;
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.tag {
+    padding: 2px 8px;
+    background-color: #2563eb;
+    color: white;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.content {
+    margin: 0 0 10px;
+}
+
+.deleteButton {
+    padding: 8px 16px;
+    margin-left: auto;
+    background-color: #dc2626;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+.deleteButton:hover {
+    background-color: #b91c1c;
+    transform: scale(1.04);
+}
+
+.hidden {
+    color: #7d7d7d;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+}
