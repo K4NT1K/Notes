@@ -6,10 +6,7 @@
       "content": "Content 1",
       "createdAt": "2026-09-11T12:33:47.267Z",
       "hidden": false,
-      "tags": [
-        "tag1",
-        "tag2"
-      ]
+      "tags": ["tag1", "tag2"]
     },
     {
       "id": "2",
@@ -17,10 +14,7 @@
       "content": "Content 2",
       "createdAt": "2026-09-12T12:33:47.267Z",
       "hidden": false,
-      "tags": [
-        "tag2",
-        "tag3"
-      ]
+      "tags": ["tag2", "tag3"]
     },
     {
       "id": "3",
@@ -28,10 +22,7 @@
       "content": "Content 3",
       "createdAt": "2026-09-13T12:33:47.267Z",
       "hidden": true,
-      "tags": [
-        "tag3",
-        "tag4"
-      ]
+      "tags": ["tag3", "tag4"]
     },
     {
       "id": "dA0ytT_dx-E",
@@ -39,10 +30,7 @@
       "content": "Изучить типизацию, кортежи, замыкание",
       "createdAt": "2026-09-14T11:15:37.037Z",
       "hidden": false,
-      "tags": [
-        "Программирование",
-        "Учёба"
-      ]
+      "tags": ["Программирование", "Учёба"]
     },
     {
       "id": "ydyHflXVfSE",
@@ -50,11 +38,7 @@
       "content": "video 3,4",
       "createdAt": "2026-09-27T09:45:42.569Z",
       "hidden": false,
-      "tags": [
-        "homework",
-        "school",
-        "web-prog"
-      ]
+      "tags": ["homework", "school", "web-prog"]
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
